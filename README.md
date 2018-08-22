@@ -4,7 +4,7 @@ Implements the Giphy API. Displays gifs pertaining to category user clicks. Gifs
 
 
 ## Screen Shot
-![Screen shot](assets/images/TVGiphy-1.png)
+![giphy](https://user-images.githubusercontent.com/38441292/44436878-25e41600-a57d-11e8-85b6-6957a87198e0.JPG)
 
 User can input a new category and when button is clicked, creates gifs of that category.
 
