@@ -2,11 +2,9 @@
 
 Implements the Giphy API. Displays gifs pertaining to category user clicks. Gifs animate when mouse hovers over image. Allows user input to create new show buttons.
 
-
-## Screen Shot
-![giphy](https://user-images.githubusercontent.com/38441292/44436878-25e41600-a57d-11e8-85b6-6957a87198e0.JPG)
-
 User can input a new category and when button is clicked, creates gifs of that category.
+
+![giphy](https://user-images.githubusercontent.com/38441292/44436878-25e41600-a57d-11e8-85b6-6957a87198e0.JPG)
 
 ## Technologies used
 - Bootstrap
