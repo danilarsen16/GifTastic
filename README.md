@@ -1,6 +1,6 @@
 # GifTastic
 
-Implements the Giphy API. Displays gifs pertaining to category user clicks. Gifs animate when mouse hovers over image. Allows user input to create new show buttons.
+Implements the Giphy API. Displays gifs pertaining to the category that the user clicks. Gifs animate when mouse hovers over image. Allows user input to create new show buttons.
 
 User can input a new category and when button is clicked, creates gifs of that category.
 
